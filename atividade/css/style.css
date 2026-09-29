@@ -1,0 +1,92 @@
+#container {
+    width: 1000px;
+    margin: 0 auto;
+}
+ 
+header {
+    width: 1000px;
+    height: 245px;
+    background-color: rgb(0, 20, 200);
+    margin-bottom: 5px;
+}
+ 
+ 
+#banner {
+    width: 1000px;
+    height: 295px;
+    background-color: rgb(60, 151, 204);
+    margin-bottom: 5px;
+}
+ 
+/* ÁREA DAS CAIXAS */
+ 
+main {
+    width: 1000px;
+    height: 360px;
+    background-color: chocolate;
+    margin-bottom: 5px;
+}
+ 
+/* CAIXA GRANDE DA ESQUERDA */
+ 
+aside {
+    width: 500px;
+    height: 360px;
+    background-color: rgb(42, 106, 165);
+    float: left;
+    
+   
+}
+ 
+#box1 {
+    width: 250px;
+    height: 180px;
+    background-color: rgb(19, 91, 124);
+    float: left;
+   
+}
+ 
+/* CAIXAS DA DIREITA */
+ 
+#box2 {
+    width: 250px;
+    height: 180px;
+    background-color: rgb(32, 107, 219);
+    float: right;
+   
+}
+ 
+#box3 {
+    width: 250px;
+    height: 180px;
+    background-color: rgb(0, 136, 190);
+    float: right;
+    margin-bottom: 5px;
+   
+}
+ 
+#box4 {
+    width: 250px;
+    height: 180px;
+    background-color: rgb(5, 62, 168);
+    float: right;
+    margin-bottom: 5px;
+   
+}
+ 
+#banner_ft{
+    width: 1000px;
+    height: 290px;
+    background-color: rgb(27, 210, 216);
+    
+    
+}
+ 
+footer {
+    width: 1000px;
+    height: 215px;
+    background-color: rgb(0, 20, 200);
+    clear: both;
+    margin-top: 5px;
+}
+ 
